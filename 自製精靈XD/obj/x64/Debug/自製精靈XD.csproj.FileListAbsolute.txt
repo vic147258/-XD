@@ -1,0 +1,12 @@
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\bin\x64\Debug\自製精靈XD.exe
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\bin\x64\Debug\自製精靈XD.pdb
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\bin\x64\Debug\KinectMouseController.dll
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.csprojResolveAssemblyReference.cache
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.Form1.resources
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.Properties.Resources.resources
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.select_key.resources
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.select_mouse_point.resources
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.select_time.resources
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.csproj.GenerateResource.Cache
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.exe
+C:\Users\vic\Desktop\自製精靈XD\自製精靈XD\obj\x64\Debug\自製精靈XD.pdb
